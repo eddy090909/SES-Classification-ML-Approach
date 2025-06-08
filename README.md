@@ -37,7 +37,7 @@ Completed as a final project for QAC239: Machine Learning at Wesleyan University
 - Allan Cheruiyot  
 - Yonathan Abera  
 
-## 📬 Contact
+
 
 Feel free to connect or reach out:  
 📫 [LinkedIn](https://www.linkedin.com/in/edomiaszerihun) 
