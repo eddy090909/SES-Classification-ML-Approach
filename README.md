@@ -40,4 +40,4 @@ Completed as a final project for QAC239: Machine Learning at Wesleyan University
 ## 📬 Contact
 
 Feel free to connect or reach out:  
-📫 [LinkedIn](https://www.linkedin.com/in/eddy090909) · ✉️ ezeri@wesleyan.edu
+📫 [LinkedIn](https://www.linkedin.com/in/edomiaszerihun) 
